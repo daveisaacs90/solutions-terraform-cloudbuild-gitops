@@ -1,1 +1,1 @@
-project="	java-app-315716"
+project="java-app-315716"
